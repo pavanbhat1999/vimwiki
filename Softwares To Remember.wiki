@@ -1,0 +1,5 @@
+# Software To Remember
+
+- ngrok-bin : To share your local host
+- virt-manager : managing virtual Boxes
+

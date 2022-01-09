@@ -1,0 +1,6 @@
+1. tmux new -s session name
+2. tmux attach-session  number/name
+3. tmux ls
+4. C b is super key
+5. cb w list winodws
+6. cb d deatch from the session

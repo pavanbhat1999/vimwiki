@@ -1,0 +1,17 @@
+# Ranger File Manager Cheat Sheet
+
+1.  h j k l navigation
+2.  m  = mark
+    um = unmark the path
+3.  r  = open with option
+4.  a  = rename with appending
+5.  V  = visual mode
+6.  dd = delete
+7.  p  = paste and its options
+8. "Displaying Size"
+    dc
+9. " Selection"
+    v - inverts selection
+    V - visual mode
+    uv - undo selection
+    space - Multi Selection

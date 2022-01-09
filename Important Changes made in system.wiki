@@ -1,0 +1,5 @@
+# Important modifications made to clean $HOME
+
+- added export statement in ***/etc/zsh/zshenv***
+- startx /custompath
+- added many things to zprofile ( look into zprofile for more info)

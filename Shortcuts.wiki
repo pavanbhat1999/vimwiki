@@ -1,0 +1,63 @@
+1. vim edits
+
+    1.  Multicursor
+    Ctrl+n ESC i  https://github.com/terryma/vim-multiple-cursors 
+    #delete between quotes like { } ''" "etc
+    mode:Normal di'' di{ di(
+                dw #delete a word
+                cw #delete with insert
+    2. selection
+    mode:visual gg and G
+    3. nerd commenting
+    mode:Normal 
+    space+c+c
+    #uncommenting
+    space+c+space
+    4. find in files
+    :Rg 'text'
+    5.  moving horizontly
+    f<> t<>
+    F<> T<>
+    ; - move forward
+    , - move backward
+    6.  delete
+    dw - delete word
+    cw - delete + insert
+    s - delete insert
+    x - delete
+    D - deletes further content
+    C - put insert mode
+    S - delete and put in proper indentation
+    7. creating dir and files 
+    press 'm' in nerdtree
+    then you get optiions
+    map <C-p> :ProjectFiles<CR>
+    8.  setting up python for coc
+    :CocCommand
+    python.setInterpreter
+    9.  verticle movement
+    Ctrl + d Ctrl+u
+    {  }- move between chunk of codes
+    relative numbers
+    % - matching braces
+    i and a - for selection inside brackets
+    10. git feature
+    jump to next hunk (change): ]c
+    11. tab experience
+    gt # go to next
+    gT #back
+    12. git merge
+    C - w - o #leave only this blank
+    13. formating
+    <leader> f
+    14. visual mode selection 
+    sh + v + > or < 
+    15. vim-surround
+        ysiw{}
+        yss{}
+    16. auto-formating
+        g=G
+    17. align
+        gapi - https://github.com/junegunn/vim-easy-align
+2. i3 shortcuts    
+    mod+shift+f - firefox

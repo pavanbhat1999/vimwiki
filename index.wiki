@@ -1,0 +1,8 @@
+= My notes =
+[[https://github.com/vimwiki/vimwiki|github page for vimwiki]]
+1. [[Important Changes made in system]]
+2. [[Linux Commands]]
+3. [[My Vim shortcuts]]
+4. [[Ranger Shortcuts]]
+5. [[Tmux]]
+6. [[Softwares To Remember]]
