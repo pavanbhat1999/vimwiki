@@ -6,3 +6,5 @@
 4. [[Ranger Shortcuts]]
 5. [[Tmux]]
 6. [[Softwares To Remember]]
+7. [[Git commands]]
+8. [[My Personal Projects]]

@@ -1,0 +1,2 @@
+### Checking Size of the repos
+    curl -s https://api.github.com/repos/torvalds/linux | jq '.size' | numfmt --to=iec --from-unit=1024
