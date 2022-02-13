@@ -8,3 +8,5 @@
 6. [[Softwares To Remember]]
 7. [[Git commands]]
 8. [[My Personal Projects]]
+9. [[Blog Ideas]]
+10. [[Cognizant]]

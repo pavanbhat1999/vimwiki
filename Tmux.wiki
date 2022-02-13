@@ -1,11 +1,11 @@
 1. tmux new -s session name
 2. tmux attach-session  number/name
 3. tmux ls
-4. C b is super key
-5. cb w list winodws to kill(x) and goto
-6. cb d deatch from the session
-7. cb c - new tab
-8. cb 0-1 - switch tab
-9. cb n - next tab
-10. cb p - previous tab
-11. cb x - close tab
+4. C b is super key - changed to C - a
+5. ca w list winodws to kill(x) and goto
+6. ca d deatch from the session
+7. ca c - new tab
+8. ca 0-1 - switch tab
+9. ca n - next tab
+10. ca p - previous tab
+11. ca x - close tab
