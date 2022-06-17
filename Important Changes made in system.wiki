@@ -1,5 +1,56 @@
-# Important modifications made to clean $HOME
 
+# NOTE: Cool-Scripts
+- cron job for battery notification
+- cron job for changing wallpaper from wall heaven
+- change different themes
+
+* * * * *  XDG_RUNTIME_DIR=/run/user/$(id -u) sh $HOME/bin/scripts/battery_notification.sh
+
+[[Arch After install]]
+
+xprofile
+#!/bin/bash
+
+export EDITOR="nvim"
+export VISUAL="nvim"
+export TERMINAL="kitty"
+
+
+export PATH=~/bin:$PATH
+export PATH=/home/root99/bin/appimages:$PATH
+export PATH=/home/root99/bin/rofi-scripts:$PATH
+export PATH=/home/root99/bin/scripts:$PATH
+export PATH=/home/root99/bin/themes:$PATH
+export PATH=~/bin/CustomScripts:$PATH
+export PATH=~/bin/statusbar-luke:$PATH
+export PATH=~/bin/mystatus:$PATH
+export PATH=/home/root99/bin/scripts/:$PATH
+export PATH=$HOME/.config/npm-global:$PATH
+export XDG_CONFIG_HOME=$HOME/.config
+export XDG_CACHE_HOME=$HOME/.cache
+export XDG_DATA_HOME=$HOME/.local/share
+export XDG_STATE_HOME=$HOME/.local/state
+export GNUPGHOME=$HOME/.config/GNU/
+export PASSWORD_STORE_DIR=$HOME/.config/pass
+#export VSCODE_PORTABLE= $XDG_CONFIG_HOME/vscode
+export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
+# export XINITRC=$XDG_CONFIG_HOME/X11/xinitrc
+# export XAUTHORITY=$XDG_CONFIG_HOME/Xauthority # this will break some dm
+export GTK2_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
+export GRADLE_USER_HOME="$XDG_DATA_HOME"/gradle
+export CHROME_EXECUTABLE="/usr/bin/brave"
+picom &
+sxhkd -c /home/root99/.config/sxhkd/sxhkdrc_dwm &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+greenclip daemon &
+xss-lock --transfer-sleep-lock -- slock &
+xautolock -time 30  -locker "systemctl suspend" -detectsleep &
+nm-applet &
+dunst &
+xsetroot -cursor_name left_ptr &
+libinput-gestures-setup start &
+# Important modifications made to clean $HOME
 - added export statement in ***/etc/zsh/zshenv***
 - startx /custompath
 - added many things to zprofile ( look into zprofile for more info)
+

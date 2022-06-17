@@ -1,0 +1,20 @@
+{next day goals}
+- NOTE: make atleast a blog
+
+
+{expenses}
+- current bill = 1009
+
+{personal}
+- Made Changes in my windows11 installation WSL
+    - downloading Fira Code from nerdfont website
+    - set it in settings.json file
+    - Now my arch WSL looks cool
+    - both work and personal environements are ready to go
+
+
+- Has to start making blogs more often that is why set up wsl instance properly
+
+
+{work}
+- Nothing much only standup

@@ -1,0 +1,7 @@
+1. Figlet.nvim (.config/figlet.nvim)
+2. Dot Files (.config)
+3. Neovim Configuration (.config/nvim)
+4. bin files  (/bin)
+5. Dwm Builds (ggg/manual_installation)  NOTE:Not Maintained
+6.
+

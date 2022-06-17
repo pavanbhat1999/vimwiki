@@ -1,12 +1,24 @@
 = My notes =
 [[https://github.com/vimwiki/vimwiki|github page for vimwiki]]
-1. [[Important Changes made in system]]
-2. [[Linux Commands]]
-3. [[My Vim shortcuts]]
-4. [[Ranger Shortcuts]]
-5. [[Tmux]]
-6. [[Softwares To Remember]]
-7. [[Git commands]]
-8. [[My Personal Projects]]
-9. [[Blog Ideas]]
-10. [[Cognizant]]
+
+[[Important Changes made in system]]
+
+[[Linux Commands]]
+
+[[My Vim shortcuts]]
+
+[[Vs code Shortcuts]]
+
+[[Ranger Shortcuts]]
+
+[[Tmux]]
+
+[[Softwares To Remember]]
+
+[[Git commands]]
+
+[[My Personal Git Projects]]
+
+[[Blog Ideas]]
+
+[[Salesforce Things]]

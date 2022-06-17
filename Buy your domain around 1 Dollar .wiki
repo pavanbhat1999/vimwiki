@@ -1,0 +1,4 @@
+- Name Cheap for domain names
+- github pages for hosting
+- markdown for writing blogs
+- zola as static web generater

@@ -19,8 +19,8 @@
 ### window operation
     C - w - o #leave only this blank
 ### vim-surround
-    ysiw{}
-    yss{}
+    ysiw{} - word on the cursor
+    yss{} - whole line
 ### auto-formating
     g=G
 ### align

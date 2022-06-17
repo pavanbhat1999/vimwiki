@@ -1,0 +1,4 @@
+Just earned the Quick Start: Visual Studio Code for Salesforce Development badge on @Trailhead and you should too! https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce/use-vscode-for-salesforce?trail_id=set-up-your-workspace-and-install-developer-tools
+
+
+Just earned the Joined Reports: Quick Look badge on @Trailhead and you should too! https://trailhead.salesforce.com/en/content/learn/modules/joined-reports-quick-look/create-a-joined-report

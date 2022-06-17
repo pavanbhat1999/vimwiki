@@ -1,5 +1,0 @@
-1. [[https://trailhead.salesforce.com/en/content/learn/modules/lex_implementation_basics| Sales Force CRM]]
-2. [[https://trailhead.salesforce.com/en/content/learn/modules/company_wide_org_settings/org_settings_regional | Comapny wide org]]
-3. [[https://trailhead.salesforce.com/en/content/learn/modules/salesforce-licensing | Salesforce-licensing]]
-4.  [[https://trailhead.salesforce.com/en/content/learn/modules/lex_implementation_user_setup_mgmt |User mgmt]]
-

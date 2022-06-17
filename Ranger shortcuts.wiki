@@ -1,9 +1,0 @@
-1.  h j k l navigation
-2.  m - mark
-    um - unmark the path
-3.  r - open with option
-4.  a - ranme with appending
-5.  V - visual mode
-6.  dd - delete
-7.  p - paste and its options
-

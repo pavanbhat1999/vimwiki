@@ -1,34 +1,11 @@
-# Software To Remember
-- ngrok-bin : To share your local host
-- virt-manager : managing virtual Boxes
-- xdg-user-dirs : xdg-user-dirs is a tool to help manage "well known" user directories like the desktop folder and the music folder. It also handles localization (i.e. translation) of the filenames.
-- xwindow
-- xev : xev is a command line utility for printing the X11 events that occur on a window.
-- i3 xplanet
+[[Software To Remember]]
 
+[[Rust Alternatives]]
 
-# Rust ALternative
-- exa : ls Alternative
+[[Removed but good]]
 
+[[Removed Dont know why]]
 
 ## TO remove
-- ani cli
 - discord server
 - typescript
-
-## Removed
-- i3-gaps
-- i3blocks
-- bspwm
-- yay-bin
-- bat
-- ytfzf
-- sfdx-cli
-- topgrade
-- zola
-- hugo
-%% - qemu qemu-arch-extra
-- xorg-xwayland
-- nm-applet
-- bat-asus
-- texlive-fontsextra

@@ -1,0 +1,2 @@
+- Fonts
+    - In windows WSL no need to install in arch but install directly in windows system

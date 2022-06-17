@@ -1,0 +1,6 @@
+{nextday}
+TODO:
+{personal}
+- setup some GUI with WSL
+{work}
+-small update onlaptop from avinash

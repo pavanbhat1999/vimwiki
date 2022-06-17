@@ -1,2 +1,7 @@
+- [[ Buy your domain around 1 Dollar ]]
 - Pandoc presntations
 - Fontello brave icons
+- Wallpaper Fetcher
+- Multiple Theme Switcher
+- How to use npm and node in linux system using nvm
+- create a 3d portfolio

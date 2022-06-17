@@ -1,3 +1,0 @@
-gnome-documents
-gnome-online-miners
-nemo

@@ -1,0 +1,16 @@
+
+- i3-gaps
+- i3blocks
+- bspwm
+- yay-bin
+- bat
+- ytfzf
+- sfdx-cli
+- topgrade
+- zola
+- hugo
+%% - qemu qemu-arch-extra
+- xorg-xwayland
+- nm-applet
+- bat-asus
+- texlive-fontsextra

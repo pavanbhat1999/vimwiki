@@ -1,0 +1,4 @@
+asciidoc
+    docbook-xml docbook-xsl
+uthash
+ttf-carlito

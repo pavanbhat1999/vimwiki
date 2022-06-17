@@ -1,0 +1,14 @@
+
+# Keyboard Shortcuts
+- Control + d
+    Used for selecting multiple instances of same world
+- Alt + Click
+    Manually select multicursor
+
+# Changes Necessary
+- change fonts to Fira Code for ligature support
+- If you can then use vim
+-
+
+
+
