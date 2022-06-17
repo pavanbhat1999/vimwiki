@@ -1,6 +1,6 @@
 = My notes =
 [[https://github.com/vimwiki/vimwiki|github page for vimwiki]]
-
+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
 [[Important Changes made in system]]
 
 [[Linux Commands]]
